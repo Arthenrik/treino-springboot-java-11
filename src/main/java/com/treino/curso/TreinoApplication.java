@@ -10,4 +10,5 @@ public class TreinoApplication {
 		SpringApplication.run(TreinoApplication.class, args);
 	}
 
+	
 }
